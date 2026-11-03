@@ -1,0 +1,56 @@
+BUKU SAKU FISIKA 1 — RUMUS UNICODE UNTUK ONLYOFFICE / WORD
+
+PENGUKURAN
+Rata-rata: x̄ = Σxᵢ / n
+Simpangan baku sampel: s = √[Σ(xᵢ − x̄)² / (n − 1)]
+Ketidakpastian rata-rata: SE = s / √n
+Ketidakpastian relatif: KR = (SE / x̄) × 100%
+
+VEKTOR
+Komponen: Aₓ = A cos θ ; Aᵧ = A sin θ
+Resultan tegak lurus: R = √(A² + B²)
+Resultan umum: R = √(A² + B² + 2AB cos α)
+Sudut apit: cos α = (R² − A² − B²) / (2AB)
+
+GLB
+s = v × t
+v = s / t
+t = s / v
+
+GLBB
+a = (vₜ − v₀) / t
+vₜ = v₀ + a × t
+s = v₀ × t + ½ × a × t²
+vₜ² = v₀² + 2 × a × s
+v rata-rata = (v₀ + vₜ) / 2
+
+GERAK VERTIKAL
+Jatuh bebas: v = g × t ; h = ½ × g × t² ; v² = 2 × g × h
+Lempar ke atas: vₜ = v₀ − g × t
+Posisi: y = v₀ × t − ½ × g × t²
+Waktu puncak: t = v₀ / g
+Tinggi maksimum: h = v₀² / (2 × g)
+
+GERAK PELURU
+v₀ₓ = v₀ cos θ ; v₀ᵧ = v₀ sin θ
+x = v₀ cos θ × t
+y = v₀ sin θ × t − ½ × g × t²
+vₓ = v₀ cos θ ; vᵧ = v₀ sin θ − g × t
+Waktu naik: t = v₀ sin θ / g
+Tinggi maksimum: H = v₀² sin² θ / (2 × g)
+Waktu total (tinggi awal = akhir): T = 2 × v₀ sin θ / g
+Jangkauan (tinggi awal = akhir): R = v₀² sin(2θ) / g
+
+KONVERSI SATUAN
+km/jam ke m/s: bagi 3,6
+m/s ke km/jam: kali 3,6
+1 km = 1.000 m ; 1 jam = 3.600 s ; 1 cm = 0,01 m
+
+KALKULATOR
+Sudut derajat: mode DEG.
+Invers cos: SHIFT → COS → angka → =
+Notasi ilmiah: gunakan tombol EXP.
+Gunakan tanda kurung pada pembilang dan penyebut.
+
+CATATAN
+File ini memakai karakter Unicode, bukan objek persamaan tertanam. Simbol dan pangkat akan tetap berupa teks saat dibuka atau disalin ke ONLYOFFICE/Word. Untuk pecahan/akar bertingkat yang perlu tata letak matematika, gunakan fitur Sisipkan > Persamaan di ONLYOFFICE.
